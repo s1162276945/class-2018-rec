@@ -8,7 +8,7 @@ Everyone is required to read about 20 research papers through the course and pre
 
 Every week, 2~3 research papers will be handed out and the next week, we will have about-1.5-hours-long quiz asking questions about those reading matters. You can refer to copies of the reading material for quiz.
 
-### Memory-based collaborative filtering
+### Memory-based collaborative filtering & performance evaluation of recommendation systems
 
 > Badrul Munir Sarwar, George Karypis, Joseph A. Konstan, John Riedl: Item-based collaborative filtering recommendation algorithms. WWW 2001: 285-295
 
