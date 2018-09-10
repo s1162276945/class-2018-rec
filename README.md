@@ -26,3 +26,5 @@ Every week, 2~3 research papers will be handed out and the next week, we will ha
 
 Every week, 2~3 students present 40min presentation. Research papers for your presentation will be picked from
 >	Shuai Zhang, Lina Yao, Aixin Sun: Deep Learning based Recommender System: A Survey and New Perspectives. CoRR abs/1707.07435 (2017)
+
+## Term Project: Recommendation on ...
