@@ -5,8 +5,8 @@ Actually, the class is about recommender systems. Its name includes "IoT devices
 Everyone is required to read about 20 research papers through the course and present at least a recent work of recommender system.
 
 Contact:
-*Instructor: Younghoon Kim (nongaussian@gmail.com)
-*TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
+* Instructor: Younghoon Kim (nongaussian@gmail.com)
+* TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Phase 1: Traditional recommendation systems
 
@@ -28,3 +28,17 @@ Every week, 2~3 students present 40min presentation. Research papers for your pr
 >	Shuai Zhang, Lina Yao, Aixin Sun: Deep Learning based Recommender System: A Survey and New Perspectives. CoRR abs/1707.07435 (2017)
 
 ## Term Project: Recommendation on ...
+
+Given the following data collected from (a real-world application), implement a recommendation algorithm and sumbmit the recommendation for each user in the test data.
+
+**Training data**
+
+NOT YET DETERMINED
+
+**Test data**
+
+NOT YET DETERMINED
+
+**Evaluation metric**
+
+NOT YET DETERMINED
