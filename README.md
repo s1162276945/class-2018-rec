@@ -10,7 +10,7 @@ Contact:
 
 ## Phase 1: Traditional recommendation systems
 
-Every week, 2~3 research papers will be handed out and the next week, we will have about-1.5-hours-long quiz asking questions about those reading matters. You can refer to copies of the reading material for quiz.
+Every week, 2~3 research papers will be handed out and the next week, we will have about-1.5-hours-long quiz asking questions about those reading matters. You can refer to copies of the reading material for quiz. That is, it is an open-book test.
 
 ### Memory-based collaborative filtering & performance evaluation of recommendation systems
 
