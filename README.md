@@ -8,11 +8,15 @@ Contact:
 * Instructor: Younghoon Kim (nongaussian@gmail.com)
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
+## IMPORTANT NOTICE
+* The quiz is an open-book test.
+* No class on Sep 25 due to Chu-seok.
+
 ## Phase 1: Traditional recommendation systems
 
 Every week, 2~3 research papers will be handed out and the next week, we will have about-1.5-hours-long quiz asking questions about those reading matters. You can refer to copies of the reading material for quiz. That is, it is an open-book test.
 
-### Memory-based collaborative filtering & performance evaluation of recommendation systems
+### Memory-based collaborative filtering & performance evaluation of recommendation systems (Quiz on Sep 18)
 
 > Badrul Munir Sarwar, George Karypis, Joseph A. Konstan, John Riedl: Item-based collaborative filtering recommendation algorithms. WWW 2001: 285-295
 
@@ -20,7 +24,7 @@ Every week, 2~3 research papers will be handed out and the next week, we will ha
 
 > G. Shani and A. Gunawardana, “Evaluating Recommendation Systems,” Recommender Systems Handbook. Springer, 2011, Chapter 8, pp. 257-294.
 
-### Matrix factorization
+### Matrix factorization (Quiz on Oct 25)
 
 ## Phase 2: Deep-leaerning based recommendation systems
 
