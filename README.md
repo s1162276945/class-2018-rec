@@ -11,6 +11,7 @@ Contact:
 ## IMPORTANT NOTICE
 * The quiz is an open-book test.
 * No class on Sep 25 due to Chu-seok.
+* No class on Oct 9 due to Hangul Day.
 
 ## Phase 1: Traditional recommendation systems
 
@@ -24,7 +25,9 @@ Every week, 2~3 research papers will be handed out and the next week, we will ha
 
 > G. Shani and A. Gunawardana, “Evaluating Recommendation Systems,” Recommender Systems Handbook. Springer, 2011, Chapter 8, pp. 257-294.
 
-### Matrix factorization (Quiz on Oct 25)
+### Matrix factorization & latent factor modeling (Quiz on Oct 2)
+
+### Content-based recommendation (Quiz on Oct 16)
 
 ## Phase 2: Deep-leaerning based recommendation systems
 
