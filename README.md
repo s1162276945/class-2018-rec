@@ -25,9 +25,17 @@ Every week, 2~3 research papers will be handed out and the next week, we will ha
 
 > G. Shani and A. Gunawardana, “Evaluating Recommendation Systems,” Recommender Systems Handbook. Springer, 2011, Chapter 8, pp. 257-294.
 
-### Matrix factorization & latent factor modeling (Quiz on Oct 2)
+### Model-based collaborative filtering (Quiz on Oct 2)
 
-### Content-based recommendation (Quiz on Oct 16)
+> Koji Miyahara, Michael J. Pazzani: Collaborative Filtering with the Simple Bayesian Classifier. PRICAI 2000: 679-689
+
+> Albert Au Yeung: Matrix Factorization - A Simple Tutorial and Implementation in Python (blog article), http://www.albertauyeung.com/post/python-matrix-factorization/, 2017.
+
+> Yehuda Koren, Robert M. Bell, Chris Volinsky: Matrix Factorization Techniques for Recommender Systems. IEEE Computer 42(8): 30-37 (2009)
+
+> Y. Koren and R. Bell, “Advances in Collaborative Filtering,” Recommender Systems Handbook. Springer, 2011, Chapter 5, pp. 145-184.
+
+### Content-based collaborative filtering (Quiz on Oct 16)
 
 ## Phase 2: Deep-leaerning based recommendation systems
 
