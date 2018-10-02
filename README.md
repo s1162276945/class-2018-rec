@@ -12,6 +12,7 @@ Contact:
 * The quiz is an open-book test.
 * No class on Sep 25 due to Chu-seok.
 * No class on Oct 9 due to Hangul Day.
+* Changes: Term project -> final exam (Dec 13)
 
 ## Phase 1: Traditional recommendation systems
 
