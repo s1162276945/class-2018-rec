@@ -38,6 +38,11 @@ Every week, 2~3 research papers will be handed out and the next week, we will ha
 
 ### Content-based collaborative filtering (Quiz on Oct 16)
 
+> Pasquale Lops, Marco de Gemmis, Giovanni Semeraro:
+Content-based Recommender Systems: State of the Art and Trends. Recommender Systems Handbook 2011: 73-105
+
+> Michael J. Pazzani, Daniel Billsus: Content-Based Recommendation Systems. The Adaptive Web 2007: 325-341
+
 ## Phase 2: Deep-leaerning based recommendation systems
 
 Every week, 2~3 students present 40min presentation. Research papers for your presentation will be picked from
