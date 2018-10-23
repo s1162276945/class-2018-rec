@@ -9,9 +9,7 @@ Contact:
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## IMPORTANT NOTICE
-* The quiz is an open-book test.
-* No class on Sep 25 due to Chu-seok.
-* No class on Oct 9 due to Hangul Day.
+* TIP FOR PRESENTATION: If it is too hard to understand the techniques in the assigned research paper, you can talk about the deep learning technique utilized in the assigned paper (e.g., If your paper is about a recommender system using Attention Mechanism (a popular and very effective technique in deep learning), then you can study and talk about Attention Mechanism)
 * Changes: Term project -> final exam (Dec 13)
 
 ## Phase 1: Traditional recommendation systems
@@ -47,5 +45,25 @@ Content-based Recommender Systems: State of the Art and Trends. Recommender Syst
 
 Every week, 2~3 students present 40min presentation. Research papers for your presentation will be picked from
 >	Shuai Zhang, Lina Yao, Aixin Sun: Deep Learning based Recommender System: A Survey and New Perspectives. CoRR abs/1707.07435 (2017)
+
+### Oct. 23 ###
+
+> Julian J. McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel: Image-Based Recommendations on Styles and Substitutes. SIGIR 2015: 43-52
+
+> Aäron van den Oord, Sander Dieleman, Benjamin Schrauwen: Deep content-based music recommendation. NIPS 2013: 2643-2651
+
+### Oct. 30 ###
+
+### Nov. 6 ###
+
+### Nov. 13 ###
+
+### Nov. 20 ###
+
+### Nov. 27 ###
+
+### Dec. 4 ###
+
+### Dec. 11 ###
 
 ## Final exam (Dec 13)
