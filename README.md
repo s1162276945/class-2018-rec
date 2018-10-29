@@ -70,22 +70,45 @@ Every week, 2~3 students present 40min presentation. Research papers for your pr
 
 ### Oct. 23 ###
 
-> Julian J. McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel: Image-Based Recommendations on Styles and Substitutes. SIGIR 2015: 43-52
-
-> Aäron van den Oord, Sander Dieleman, Benjamin Schrauwen: Deep content-based music recommendation. NIPS 2013: 2643-2651
+> 김진희: Julian J. McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel: Image-Based Recommendations on Styles and Substitutes. SIGIR 2015: 43-52
+> 박준섭: Aäron van den Oord, Sander Dieleman, Benjamin Schrauwen: Deep content-based music recommendation. NIPS 2013: 2643-2651
 
 ### Oct. 30 ###
 
+> 김영진: Developing a Twitter-based traffic event detection model using deep learning architectures
+> 김종우: Deep Sequential Recommendation for Personalized Adaptive User Interfaces
+
 ### Nov. 6 ###
+
+> 김문회: Neural Citation Network for Context-Aware Citation Recommendation
+> 사미울라: Hashtag Recommendation Using Attention-Based Convolutional Neural Network
 
 ### Nov. 13 ###
 
+> 오지강: A Neural Network Approach to Quote Recommendation in Writings
+> 이브테삼무하마드: Comparative Deep Learning of Hybrid Representations for Image Recommendations
+
 ### Nov. 20 ###
+
+> 천신: Embedding-based News Recommendation for Millions of Users
+> 칸무하마드우메어: Collaborative Deep Learning for Recommender Systems
+> 박승윤: Collaborative Recurrent Neural Networks for Dynamic Recommender Systems
 
 ### Nov. 27 ###
 
+> 손수현: Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network
+> 조용채: Deep Coevolutionary Network: Embedding User and Item Features for Recommendation
+> 한군영: Neural Emoji Recommendation in Dialogue Systems
+
 ### Dec. 4 ###
 
+> 쿤쳄소픽: Exploring Deep Space: Learning Personalized Ranking in a Semantic Space
+> 사나나즈: Deep Content-User Embedding Model for Music Recommendation
+
 ### Dec. 11 ###
+
+> Dahal, Shubhechchha: <to be updated>
+> Mygind, Hans Frederik Egeberg: <to be updated>
+> Busek, Jakub: <to be updated>
 
 ## Final exam (Dec 13)
