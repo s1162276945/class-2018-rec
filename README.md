@@ -116,10 +116,10 @@ Every week, 2~3 students present 40min presentation. Research papers for your pr
 
 ### Dec. 11 ###
 
-> Dahal, Shubhechchha: <to be updated>
+> Dahal, Shubhechchha: '''to be updated'''
   
-> Mygind, Hans Frederik Egeberg: <to be updated>
+> Mygind, Hans Frederik Egeberg: '''to be updated'''
   
-> Busek, Jakub: <to be updated>
+> Busek, Jakub: '''to be updated'''
 
 ## Final exam (Dec 13)
