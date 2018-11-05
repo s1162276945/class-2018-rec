@@ -14,25 +14,7 @@ Contact:
 
 ## Presentation Schedule ##
 
-```
-김영진	Developing a Twitter-based traffic event detection model using deep learning architectures	2018-10-30
-김종우	Deep Sequential Recommendation for Personalized Adaptive User Interfaces	2018-10-30
-김문회	Neural Citation Network for Context-Aware Citation Recommendation	2018-11-06
-사미울라	Hashtag Recommendation Using Attention-Based Convolutional Neural Network	2018-11-06
-오지강	A Neural Network Approach to Quote Recommendation in Writings	2018-11-13
-이브테삼무하마드	Comparative Deep Learning of Hybrid Representations for Image Recommendations	2018-11-13
-천신	Embedding-based News Recommendation for Millions of Users	2018-11-20
-칸무하마드우메어	Collaborative Deep Learning for Recommender Systems	2018-11-20
-박승윤	Collaborative Recurrent Neural Networks for Dynamic Recommender Systems	2018-11-20
-손수현	Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network	2018-11-27
-조용채	Deep Coevolutionary Network: Embedding User and Item Features for Recommendation	2018-11-27
-한군영	Neural Emoji Recommendation in Dialogue Systems	2018-11-27
-쿤쳄소픽	Exploring Deep Space: Learning Personalized Ranking in a Semantic Space	2018-12-04
-사나나즈	Deep Content-User Embedding Model for Music Recommendation	2018-12-04
-Dahal, Shubhechchha	<to be updated>	2018-12-11
-Mygind, Hans Frederik Egeberg	<to be updated>	2018-12-11
-Busek, Jakub	<to be updated>	2018-12-11
-```
+Find the schedule below in Phase 2.
 
 ## Phase 1: Traditional recommendation systems
 
