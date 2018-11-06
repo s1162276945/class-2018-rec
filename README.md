@@ -70,6 +70,8 @@ Every week, 2~3 students present 40min presentation. Research papers for your pr
 
 ### Nov. 13 ###
 
+> (Complemental presentation) 김문회: Neural Citation Network for Context-Aware Citation Recommendation
+
 > 오지강: A Neural Network Approach to Quote Recommendation in Writings
 
 > 이브테삼무하마드: Comparative Deep Learning of Hybrid Representations for Image Recommendations
