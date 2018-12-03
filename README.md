@@ -102,6 +102,6 @@ Every week, 2~3 students present 40min presentation. Research papers for your pr
 
 > Dahal, Shubhechchha and Mygind, Hans Frederik Egeberg and Busek, Jakub: Tutorial on Microsoft Azure (e.g., *Recommender System in Azure Machine Learning Studio*)
 
-## Final exam (Dec 13)
+## Final exam (Dec 18)
 
 The exam covers 3 quizs in Phase 1 and all papers presented in our class. 
