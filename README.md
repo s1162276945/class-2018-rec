@@ -9,9 +9,7 @@ Contact:
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## IMPORTANT NOTICE
-* TIP FOR PRESENTATION: If it is too hard to understand the techniques in the assigned research paper, you can talk about the deep learning technique utilized in the assigned paper (e.g., If your paper is about a recommender system using Attention Mechanism (a popular and very effective technique in deep learning), then you can study and talk about Attention Mechanism)
-* Changes: Term project -> final exam (Dec 18)
-* Final exam: open book test
+* Final exam: open book test (9:30am ~ 11:00am, Dec 18 at our regular class room)
 
 ## Presentation Schedule ##
 
