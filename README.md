@@ -10,6 +10,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Final exam: open book test (9:30am ~ 11:00am, Dec 18 at our regular class room)
+* Bring your calcualtor that has log function
 
 ## Presentation Schedule ##
 
